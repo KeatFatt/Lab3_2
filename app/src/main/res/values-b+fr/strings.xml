@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab3_2</string>
+    <string name="flag">Drapeau</string>
+    <string-array name="age_group">
+    <item>Sélectionnez l\'âge</item>
+    <item>Moins que 5</item>
+    <item>6 to 10</item>
+    <item>11 to 16</item>
+    <item>17 to 21</item>
+    <item>22 to 30</item>
+    <item>31 to 40</item>
+    <item>41 to 50</item>
+    <item>plus que 50</item>
+
+    </string-array>
+    <string name="gender">Le genre</string>
+    <string name="male">Mâle</string>
+    <string name="female">Femelle</string>
+    <string name="smoker">Fumeur</string>
+    <string name="premium">Prime</string>
+    <string name="calculate">Calculer</string>
+    <string name="reset">Réinitialiser</string>
+</resources>
